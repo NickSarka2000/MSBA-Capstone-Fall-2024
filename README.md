@@ -4,3 +4,5 @@ This is the Repository including all of Team 5's final work for the Swire Coca-C
 2. EDA Notebook
 3. Modeling Notebook
 4. Presentation slides (converted to PDF)
+
+The data used for this project was provided and owned by Swire Coca-Cola.
