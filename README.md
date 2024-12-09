@@ -5,4 +5,4 @@ This is the Repository including all of Team 5's final work for the Swire Coca-C
 3. Modeling Notebook
 4. Presentation slides (converted to PDF)
 
-The data used for this project was provided and is owned by Swire Coca-Cola.
+The slides were presented to the Swire team and other MSBA students in late November 2024. The data used for this project was provided and is owned by Swire Coca-Cola.
